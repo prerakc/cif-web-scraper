@@ -1,0 +1,7 @@
+1. go to https://www1.laurentian.ca/staff-directory
+2. click on search box and hit enter
+3. inspect "records per page" drop down menu
+4. change "<option value="100">100</option>" to "<option value="1500">1500</option>"
+5. select 1500 from drop down menu
+6. copy paste results into csv file
+6. run python program on csv file

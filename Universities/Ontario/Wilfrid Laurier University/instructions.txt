@@ -1,0 +1,7 @@
+1. go to https://eguide.wlu.ca
+2. search for @wlu.ca
+3. open console and insert following code:
+	javascript:submitURL('EmployeeSearch.cc?actionId=showList&searchBy=ALL_FIELDS&searchType=contains&PAGE_NUMBER=1&FROM_INDEX=1&TO_INDEX=4091&RANGE=4091')
+4. copy-paste contact info into csv file
+5. format data manually
+5. run python program on csv file
